@@ -1,0 +1,33 @@
+beboere: [Kurt, Birthe, Anders L, Bente, Inger, Henrik, Peter, Astrid, Thomas, Gitte,
+  Susanne, Ulla, Soren, Jorgen, Herdis, Jan, Mette, Kirsten, Anders K, Martin, Bodil,
+  Jim, Britta, Birgitte, Kathia]
+vil_gerne_sammen:
+- [Kirsten, Anders K]
+vil_gerne_uger:
+- []
+- []
+- []
+- [Kirsten]
+- [Ulla]
+vil_ikke_sammen:
+- [Kurt, Birthe]
+- [Anders L, Bente]
+- [Inger, Henrik]
+- [Peter, Astrid]
+- [Thomas, Gitte]
+- [Ulla, Soren]
+- [Herdis, Jorgen]
+- [Martin, Bodil]
+- [Jim, Britta]
+- [Mette, Jan]
+- [Mette, Birgitte]
+- [Jan, Birgitte]
+- [Peter, Birgitte]
+- [Astrid, Birgitte]
+- [Kathia, Birgitte]
+vil_ikke_uger:
+- [Jan, Mette, Birgitte, Jorgen, Herdis, Bodil, Inger, Kathia, Astrid, Soren, Gitte, Britta, Kurt, Peter, Ulla, Anders L]
+- [Kurt, Birthe, Birgitte, Herdis, Jorgen, Jim, Thomas, Gitte, Britta, Kurt, Peter, Ulla, Anders L]
+- [Kurt, Birthe, Mette, Jan, Thomas, Gitte, Herdis, Jorgen]
+- [Kurt, Birthe, Britta, Jim, Herdis]
+- [Britta, Jim]
